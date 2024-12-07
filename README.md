@@ -5,8 +5,8 @@ Starting a bootcamp is exciting! The *very first* project we did in the Data Sci
 The following scripts, charts, and presentation were created in the first 2 weeks of the bootcamp. 
 
 > [!IMPORTANT]
-> The topic of the project was: should a well established European company that sells high-end apple product accessories use the warehouse and delivery services of a big Brazilian company
-to expand into the Brazilian market. The *fictiotious* scenario takes place in <ins>2018</ins>, long before Covid and AI-Chat bots.
+> The topic of the project was: should a well established European company that sells high-end apple products and product accessories use the warehouse and delivery services of a big Brazilian company
+to expand into the Brazilian market. The *fictitious* scenario takes place in <ins>2018</ins>, long before Covid and AI-Chat bots.
 
 ### Programmes used
 I learned to make queries in **MySQL Workbench**, create charts in **Tableau** based on the insights I gained from my queries, and finally got to work on 
